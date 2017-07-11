@@ -2,6 +2,8 @@
 A simple, real-time chat client thats easy and fun to use.
 Created Using JavaScript with JQuery and the PubNub API for websocket messaging.
 
+Check it out at http://www.mscs.mu.edu/~scoyne/whisper/
+
 ## Installation
 
 Download the three files. Run index.html in browser to view product.
